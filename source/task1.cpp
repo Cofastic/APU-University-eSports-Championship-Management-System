@@ -6,8 +6,6 @@
 
 using namespace std;
 
-// ==================== DATA STRUCTURES ====================
-
 // Player structure to store player information
 struct Player {
     string player_id;
