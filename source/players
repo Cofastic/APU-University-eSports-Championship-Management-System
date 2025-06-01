@@ -1,11 +1,9 @@
 PlayerID,PlayerName,University,GameSpecialty,SkillRating,RegistrationType,Status
-P001,Alex Chen,Asia Pacific University,League of Legends,950,early-bird,checked-in
-P002,Sarah Kim,University of Malaya,Valorant,880,early-bird,withdrawn
+P002,Sarah Kim,University of Malaya,Valorant,880,early-bird,registered
 P003,Muhammad Rizki,Universiti Teknologi Malaysia,Counter-Strike 2,920,early-bird,registered
 P004,Jessica Wong,National University Singapore,Overwatch 2,870,early-bird,registered
 P005,David Tan,Nanyang Technological University,League of Legends,890,early-bird,registered
 P016,Rachel Goh,Heriot-Watt University Malaysia,Counter-Strike 2,850,wildcard,registered
-P017,Cofastic,APU,Valorant,1000,wildcard,withdrawn
 P006,Lisa Zhang,Universiti Sains Malaysia,Valorant,845,regular,registered
 P007,Kevin Lim,Taylor's University,League of Legends,780,regular,registered
 P008,Amanda Lee,Monash University Malaysia,Counter-Strike 2,820,regular,registered
@@ -15,4 +13,4 @@ P011,Marcus Yap,Management Development Institute,League of Legends,760,regular,r
 P012,Nicole Chang,University of Nottingham Malaysia,Counter-Strike 2,830,regular,registered
 P013,Brandon Ng,Multimedia University,Overwatch 2,790,regular,registered
 P014,Sophia Liu,International University of Malaya,Valorant,740,regular,registered
-P015,Jonathan Koh,SEGi University,League of Legends,770,regular,checked-in
+P015,Jonathan Koh,SEGi University,League of Legends,770,regular,registered
